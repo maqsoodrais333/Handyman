@@ -126,7 +126,7 @@
 
 .line2div3:hover{
   background-color: rgb(31, 31, 94);
-  color: white;
+ color: white;
 }
 
 .section4 hr{
@@ -137,14 +137,13 @@
 
 .section4div1{
   background-color: rgb(216, 219, 219);
-  font-size: 20px;
-  padding: 2% 4%;
-  margin-left: 6%;
+  font-size: 18px;
+  margin-left: 2%;
 }
 
 .section4div2{
   background-color: rgb(216, 219, 219);
-  font-size: 20px;
-  padding: 2% 4%;
-  margin-left: 14%;
+  font-size: 18px;
+  margin-left: 48%;
+  margin-top: 4%;
 }
